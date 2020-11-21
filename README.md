@@ -1,8 +1,12 @@
 # Tictactoe-with-Minimax
 
-## How to run the project
+## Setting up the project
 install electron with
 ``` npm i ```
 
-and then run
+and then
 ``` ng serve ```
+
+
+## Run the project
+run ``` npm start ```
