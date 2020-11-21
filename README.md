@@ -4,9 +4,5 @@
 install electron with
 ``` npm i ```
 
-and then
-``` ng serve ```
-
-
-## Run the project
-run ``` npm start ```
+and then run
+``` npm start ```
