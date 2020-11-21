@@ -2,7 +2,7 @@
 
 ## Setting up the project
 install electron with
-``` npm i ```
+``` npm install ```
 
 and then run
 ``` npm start ```
